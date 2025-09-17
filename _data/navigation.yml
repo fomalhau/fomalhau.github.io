@@ -32,5 +32,5 @@ main:
 #    url: /markdown/
 - title: "About"
   url: /about/
-- title: "Writing"
-  url: /writing/
+- title: "Brief"
+  url: /brief/
