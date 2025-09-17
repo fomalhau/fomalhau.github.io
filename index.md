@@ -8,8 +8,8 @@ author_profile: false
 **fomalhau**
 
 Logic / Math / ML  
-One time step — "t" — on the way...  
+<!-- One time step — "t" — on the way...   -->
 "Miles to go before I sleep."
 
  [About](/about/)  
- [Writing](/writing/)  
+ [Brief](/brief/)  
